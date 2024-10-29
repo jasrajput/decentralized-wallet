@@ -15,7 +15,7 @@ This project is currently underway to develop a secure and user-friendly decentr
 - **Decentralized Control:** Users retain full control over their private keys.
 
 ## Technologies Used
-- **Blockchain:** BSC (specify your blockchain)
+- **Blockchain:** BSC
 - **Programming Language:** JavaScript/TypeScript
 - **Framework:** React/Node.js
 
