@@ -1,0 +1,10 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    width: 10%;
+}
+
+.header-logo {
+    height: 9vmin;
+    pointer-events: none;
+}

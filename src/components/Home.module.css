@@ -1,0 +1,21 @@
+.card {
+    background-color: #fff;
+    border: 2px solid #eee;
+    box-shadow: 10px 5px 2px 2px #eee;
+    text-align: center;
+    margin: 10px;
+}
+
+.card > h4 {
+    color: #454545
+}
+
+.card > strong {
+    color: #d3d3d3;
+    position: relative;
+    bottom: 10px;
+}
+
+hr {
+    border: 1px solid #eee;
+}
